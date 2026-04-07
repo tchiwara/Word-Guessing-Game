@@ -43,7 +43,5 @@ Part of a structured self-taught backend engineering roadmap:
 1. ✅ Number Guessing Game — CLI fundamentals, control flow
 2. ✅ Word Guessing Game — OOP, enums, input validation, char[] manipulation
 3. Task Tracker — file I/O, JSON persistence, CRUD
-4. Expense Tracker — data structures, aggregation, filtering
+4. Weather API — external APIs, error handling
 5. GitHub API Integration — HTTP requests, JSON parsing
-6. Weather API — external APIs, error handling
-7. Spring Boot — REST APIs, databases, backend architecture
