@@ -37,11 +37,3 @@ structured backend engineering roadmap.
 - Why pseudocode and dry runs on paper matter before coding
 - How to make use of parameters instead of having duplicate methods with same logic and different ranges
 
-## Project Progression
-Part of a structured self-taught backend engineering roadmap:
-
-1. ✅ Number Guessing Game — CLI fundamentals, control flow
-2. ✅ Word Guessing Game — OOP, enums, input validation, char[] manipulation
-3. Task Tracker — file I/O, JSON persistence, CRUD
-4. Weather API — external APIs, error handling
-5. GitHub API Integration — HTTP requests, JSON parsing
